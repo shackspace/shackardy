@@ -1,0 +1,4 @@
+this is driver code for the arduino-based controller shield for the shackspace.de jeopardy clone.
+it got debouncing code and some logic to control buttons and button LEDs as well as sending button press events to the host computer via serial communication.
+
+if you have any questions, drop a mail to hadez@nrrd.de
